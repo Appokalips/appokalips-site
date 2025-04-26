@@ -1,0 +1,24 @@
+<svg
+  width="512"
+  height="512"
+  viewBox="0 0 120 120"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M60 20 
+       L95 90 
+       L78 90 
+       L60 60
+       L42 90 
+       L25 90 
+       L60 20z"
+    fill="url(#appoGradient)"
+  />
+  <circle cx="60" cy="45" r="10" fill="url(#appoGradient)" />
+  <defs>
+    <linearGradient id="appoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#6d28d9" />
+      <stop offset="100%" stopColor="#a855f7" />
+    </linearGradient>
+  </defs>
+</svg>
